@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 9919736eea32f085bc87                            #生成的clientID
   clientSecret: da6af45af1dafcb45fa8ecb3f586863bc818f847    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
+  repo: jeff-wangjunchang.github.io    #仓库名称
   owner: jeff-wangjunchang    #github用户名
   admin: jeff-wangjunchang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
