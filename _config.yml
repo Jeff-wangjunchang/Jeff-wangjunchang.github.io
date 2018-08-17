@@ -7,7 +7,7 @@ description: "分享，快乐"
 keyword: "yiqifun, Yiqifun Blog, 一起FUN的博客, jeffwang, PHP, Laravel, Javascript"
 url: "https://jeff-wangjunchang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Jeff-wangjunchang/jeff-wangjunchang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -65,8 +65,8 @@ gitalk:
   clientID: 9919736eea32f085bc87                            #生成的clientID
   clientSecret: da6af45af1dafcb45fa8ecb3f586863bc818f847    #生成的clientSecret
   repo: jeff-wangjunchang.github.io    #仓库名称
-  owner: jeff-wangjunchang    #github用户名
-  admin: jeff-wangjunchang
+  owner: Jeff-wangjunchang    #github用户名
+  admin: Jeff-wangjunchang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
